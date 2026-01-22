@@ -62,7 +62,7 @@ A minimal and clean UI was followed to maintain readability
 Consistent color themes and font styles were used across all pages
 
 🔗 Figma Design Link:
-https://www.figma.com/design/k6fD7jGZpA1vVMuQ1nKiZe/Untitled
+https://www.figma.com/design/k6fD7jGZpA1vVMuQ1nKiZe/Untitled?node-id=9-13&t=sxYq9hsw6Rf0tL5J-1
 
 📂 Website Sections
 
